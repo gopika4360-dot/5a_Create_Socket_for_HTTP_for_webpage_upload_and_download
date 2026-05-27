@@ -104,15 +104,19 @@ INDEX.html:
 ## OUTPUT
 
 CLIENT(download):
+
 <img width="892" height="507" alt="image" src="https://github.com/user-attachments/assets/9022453a-302c-4308-8577-e51ebc8ced18" />
 
 SERVER(download):
+
 <img width="849" height="270" alt="image" src="https://github.com/user-attachments/assets/d37c4b78-5e76-4456-a102-b073c8188d77" />
 
 CLIENT(upload):
+
 <img width="818" height="294" alt="image" src="https://github.com/user-attachments/assets/3b07e95d-99ea-4381-a14e-514e87e2d103" />
 
 SERVER(upload):
+
 <img width="849" height="270" alt="image" src="https://github.com/user-attachments/assets/ec21a01d-2e39-494b-8d51-504e2a658acd" />
 
 <img width="1377" height="464" alt="image" src="https://github.com/user-attachments/assets/f2ac4153-ab55-4674-a324-cd75c94b981e" />
