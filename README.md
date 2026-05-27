@@ -20,7 +20,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 #REGISTER NO:212225230082
 
 SERVER:
-
+~~~
 import socket
 
 s = socket.socket()
@@ -53,9 +53,9 @@ while True:
         c.send("HTTP/1.1 200 OK\n\nFile Uploaded".encode())
 
     c.close()
-
+~~~
 CLIENT:
-
+~~~
 import socket
 
 s = socket.socket()
@@ -85,8 +85,9 @@ else:
 
 s.close()
 
-
+~~~
 INDEX.html:
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,7 +101,7 @@ INDEX.html:
 
 </body>
 </html>
-
+~~~
 ## OUTPUT
 
 CLIENT(download):
